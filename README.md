@@ -3,12 +3,11 @@
 
 
 ## TODO
-- [] Go through Google's machine learning bootcamp
-- [] Read book about ML for trading
-- [] Plan the structure of our program
-- [] Create a basic trading algorithm without ML
-- [] Visualize and analyze trading data
-- [] 
+- [ ] Go through Google's machine learning bootcamp
+- [ ] Read book about ML for trading
+- [ ] Plan the structure of our program
+- [ ] Create a basic trading algorithm without ML
+- [ ] Visualize and analyze trading data 
 
 
 ## Resources
